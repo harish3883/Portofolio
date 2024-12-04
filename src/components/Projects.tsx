@@ -7,21 +7,21 @@ const projects = [
     description: "Developed an UserFriendly Human face generator using GAN's that led to 8% improvement than already existed one.",
     image: "https://images.unsplash.com/photo-1527980965255-d3b416303d12?auto=format&fit=crop&w=800&q=80",
     tags: ["Python", "Machine Learning", "Deep Learning"],
-    github: "https://github.com"
+   
   },
   {
     title: "Dhaanya - Farmer Friendly Application",
     description: "An innovative application empowering farmers with ML-powered disease prediction and GEMINI API integration for intelligent assistance.",
     image: "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?auto=format&fit=crop&w=800&q=80",
     tags: ["Machine Learning", "GEMINI API", "Python", "AI"],
-    github: "https://github.com"
+    
   },
   {
     title: "Image to Text Language Translator",
     description: "A web application that extracts text from images and translates it into multiple languages, perfect for travelers. Built with OCR and GEMINI-API.",
     image: "https://images.unsplash.com/photo-1544396821-4dd40b938ad3?auto=format&fit=crop&w=800&q=80",
     tags: ["OpenCV", "OCR", "GEMINI-API", "PHP", "JavaScript"],
-    github: "https://github.com"
+   
   }
 ];
 
