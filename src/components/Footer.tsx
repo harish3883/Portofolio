@@ -13,11 +13,11 @@ export default function Footer() {
             <p className="text-gray-400 mt-2">Machine Learning Enthusiast & Developer</p>
           </div>
           <div className="flex gap-6">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" 
+            <a href="https://github.com/harish3883" target="_blank" rel="noopener noreferrer" 
                className="hover:text-purple-400 transition-colors">
               <Github size={24} />
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer"
+            <a href="https://www.linkedin.com/in/noora-harish" target="_blank" rel="noopener noreferrer"
                className="hover:text-purple-400 transition-colors">
               <Linkedin size={24} />
             </a>
