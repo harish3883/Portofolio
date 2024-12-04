@@ -21,11 +21,11 @@ export default function Header() {
           </div>
 
           <div className="hidden md:flex items-center gap-4">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" 
+            <a href="https://github.com/harish3883" target="_blank" rel="noopener noreferrer" 
                className="p-2 hover:text-purple-600 transition-colors">
               <Github size={20} />
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer"
+            <a href="linkedin.com/in/noora-harish" target="_blank" rel="noopener noreferrer"
                className="p-2 hover:text-purple-600 transition-colors">
               <Linkedin size={20} />
             </a>
